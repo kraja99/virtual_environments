@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/low_poly_terrain.unity
+    guid: 711e373890ac1074c923b0a4f82b3e0c
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e2d8d1e07205b30439cec4f7812e3b90, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1853d4d814ceec948924e9c6b8d49e4a, type: 2}
