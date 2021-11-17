@@ -16,7 +16,7 @@ MonoBehaviour:
   stamina: 20
   power: 120
   toughness: 205
-  agression: 10
+  agression: 0
   attackSpeed: 0.2
   territorial: 0
   stealthy: 0
